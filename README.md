@@ -5,7 +5,7 @@
 
 - Atualmente estou estudando **Spring Framework, Angular**
 
-- Me pergunte sobre **Java, sql, jsf, primefaces**
+- Me pergunte sobre **Java, sql, jsf, primefaces, Spring Framework, Angular**
 
 - 📫Você me acha através do e-mail **lucianodeciopacheco@gmail.com**
 
