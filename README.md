@@ -3,7 +3,7 @@
 
 - Atualmente estou trabalhando com análise/desenvolvimento de sistema ERP completo, Web/Desktop, voltado para empresas de porte médio/grande (Supermercado, Cooperativas Agrícolas, Auto Center) - Full-Stack java EE: <a href="https://www.nmsistemas.com.br/" target="blank">jVision<a/>
 
-- Atualmente estou estudando **Spring Framework, Angular**
+- Atualmente estou estudando **Spring Framework, Angular e também aprimorando meu nível de inglês**
 
 - Me pergunte sobre **Java, sql, jsf, primefaces, Spring Framework, Angular**
 
