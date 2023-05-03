@@ -1,13 +1,13 @@
-<h1 align="center">Oi 👋, Eu sou Luciano Decio Pacheco de Almeida Prado Neto</h1>
+<h1 align="center">Oi 👋, Eu sou Luciano Decio Neto</h1>
 <h3 align="center">Apaixonado por análise/desenvolvimento de sistemas</h3>
 
-- Atualmente estou trabalhando com análise/desenvolvimento de sistemas full-stack java EE: <a href="https://www.nmsistemas.com.br/" target="blank">jVision<a/>
+- Atualmente estou trabalhando com análise/desenvolvimento de sistema ERP completo, Web/Desktop, voltado para empresas de porte médio/grande (Supermercado, Cooperativas Agrícolas, Auto Center) - Full-Stack java EE: <a href="https://www.nmsistemas.com.br/" target="blank">jVision<a/>
 
 - Atualmente estou estudando **Spring Framework, Angular**
 
 - Me pergunte sobre **Java, sql, jsf, primefaces, Spring Framework, Angular**
 
-- 📫Você me acha através do e-mail **lucianodeciopacheco@gmail.com**
+- 📫Você me acha através do e-mail **developer_java@ldsystems.com.br**
 
 - 📄Minhas experiências [https://www.linkedin.com/in/luciano-decio-neto-406615272/](https://www.linkedin.com/in/luciano-decio-neto-406615272/)
 
