@@ -7,7 +7,7 @@
 
 - Me pergunte sobre **Java, sql, jsf, primefaces, Spring Framework, Angular**
 
-- 📫Você me acha através do e-mail **developer_java@ldsystems.com.br**
+- 📫Você me acha através do e-mail **lucianodeciopacheco@gmail.com**
 
 - 📄Minhas experiências [https://www.linkedin.com/in/luciano-decio-neto-406615272/](https://www.linkedin.com/in/luciano-decio-neto-406615272/)
 
