@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Luciano Decio Neto</h1>
 <h3 align="center">Apaixonado por análise/desenvolvimento de sistemas</h3>
 
-- Atualmente estou trabalhando como Full Stack java EE, auxiliando na análise/desenvolvimento de um sistema ERP completo, voltado para empresas de porte médio/grande (Supermercado, Cooperativas Agrícolas, Auto Center): <a href="https://www.nmsistemas.com.br/" target="blank">jVision<a/>
+- Atualmente estou trabalhando como Analista Desenvolvedor Sênior: <a href="https://spread.com.br/" target="blank">Spread<a/>
 
 - Atualmente estou estudando **Spring Framework, Angular e também aprimorando meu nível de inglês**
 
