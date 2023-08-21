@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=padocas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="padocas" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PADOCAS&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PADOCAS&count_private=true&show_icons=true&theme=tokyonight" alt="padocas" /></p>
