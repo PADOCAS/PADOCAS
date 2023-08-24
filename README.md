@@ -20,6 +20,6 @@
 
 <div align="center">
   <a href="https://github.com/PADOCAS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PADOCAS&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PADOCAS&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PADOCAS&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PADOCAS&layout=compact&theme=tokyonight"/>
 </div>
