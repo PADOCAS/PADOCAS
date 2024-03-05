@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Luciano Decio Neto</h1>
 <h3 align="center">Apaixonado por análise/desenvolvimento de sistemas</h3>
 
-- Atualmente estou trabalhando como Analista Desenvolvedor Sênior: <a href="https://spread.com.br/" target="blank">Spread<a/>
+- Atualmente estou trabalhando como Analista de desenvolvimento de sistemas: <a href="https://www.thomsonreuters.com.br/pt.html" target="blank">Thomson Reuters<a/>
 
 - Atualmente estou estudando **Spring Framework, Angular e também aprimorando meu nível de inglês**
 
